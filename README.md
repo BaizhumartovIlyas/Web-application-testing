@@ -6,3 +6,4 @@
 - to review revised check lists please proceed this [link](https://docs.google.com/spreadsheets/d/1XHfvxltqPiouL4yQ9phLynSvtmVoik1U/edit#gid=1791555163)
 # Bug Report
 - here is the [link](https://github.com/BaizhumartovIlyas/Web-application-testing/blob/main/G7-Express%2Brun%2B2024_05_15.pdf) to PDF-file
+- here is the [link](https://github.com/BaizhumartovIlyas/Web-application-testing/blob/main/Issues%20(2).xlsx) to Excel file 
