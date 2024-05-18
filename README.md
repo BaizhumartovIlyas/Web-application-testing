@@ -7,3 +7,4 @@
 # Bug Report
 - here is the [link](https://github.com/BaizhumartovIlyas/Web-application-testing/blob/main/G7-Express%2Brun%2B2024_05_15.pdf) to PDF-file
 - here is the [link](https://github.com/BaizhumartovIlyas/Web-application-testing/blob/main/Issues%20(2).xlsx) to Excel file 
+- in case of any query here is the [link](https://artsiomrusau.youtrack.cloud/issue/FTT-580/Web-App-Testing-Ilyas-Baizhumartov) to my YouTrack bug reports as an additional option 
